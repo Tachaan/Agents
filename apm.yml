@@ -1,0 +1,7 @@
+name: v-model-agent-toolkit
+version: 1.0.0
+description: Reusable V-model lifecycle skills and specialist agents.
+license: UNLICENSED
+includes: auto
+
+dependencies: {}
